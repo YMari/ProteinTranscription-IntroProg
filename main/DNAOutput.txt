@@ -1,0 +1,9 @@
+Arg:Arg:Arg:Arg
+ERROR: Transcription never starts
+ERROR: Transcription never stops
+Ala:Ala:Ala:Ala
+ERROR: Bad codon string
+
+The protein(s) that appeared the most times (4 times) is(are):
+Arginine
+Alanine
